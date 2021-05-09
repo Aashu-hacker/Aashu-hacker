@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating something new ,
 - 🌱 I’m currently learning in computer science and engineering 
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me via email or contact no. 
+- 📫 How to reach me via
 Email- aashishbopche357@gmail.com 
 Contact - 7709923622
 
