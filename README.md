@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, Folks I,m Ashish Bopche</h1>
 <h3 align="center">I have strong media and communication professional with a Bachlor's in Computer Science and Engineering. I am an experienced developer skilled in C++, Java, Full Stack Development, MERN, Javascript and its frameworks. My activities are much beyond my stream of education. I am involved in a lot of organizational works in college related to clubs, hackathons, fests and workshops and helped in building many communities from scratch.</h3>
 
+<p align="left"> <img src="68.png" alt="aashu-hacker" /> </p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashu-hacker&label=Profile%20views&color=0e75b6&style=flat" alt="aashu-hacker" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashu-hacker" alt="aashu-hacker" /></a> </p>
