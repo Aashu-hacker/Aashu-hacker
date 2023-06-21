@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 Folks, 
 I'm Ashish Bopche</h1>
-<h3 align="center">I have strong media and communication professional with a Bachlor's in Computer Science and Engineering. I am an experienced developer skilled in C++, Java, Full Stack Development, MERN, Javascript and its frameworks. My activities are much beyond my stream of education. I am involved in a lot of organizational works in college related to clubs, hackathons, fests and workshops and helped in building many communities from scratch.</h3>
+<h3 align="center">I have a strong media and communication professional with a Bachelor's in Computer Science and Engineering. I am an experienced developer skilled in C++, Java, Full Stack Development, MERN, Javascript, and its frameworks. My activities are much beyond my stream of education. I am involved in a lot of organizational work in college related to clubs, hackathons, fests, and workshops, and helped build many communities from scratch.</h3>
 
 <p align="center"> <img src="https://camo.githubusercontent.com/89233231dc8ba3dc5af6b979e9e3985ee8b9b70622d2ce686fc46c4a6706ea20/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313237322f312a5a53566d57476363317765454e6230536861775778772e676966" alt="aashu-hacker" /> </p>
 
@@ -13,7 +13,7 @@ I'm Ashish Bopche</h1>
 
 - 🔭 I’m currently working on **Crop Rate and Fertilizer Prediction Using AI - ML**
 
-- 🌱 I’m currently learning **Raact Native, Flutter**
+- 🌱 I’m currently learning **React Native, Flutter**
 
 - 💬 Ask me about **react, vue and next**
 
